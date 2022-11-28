@@ -74,7 +74,10 @@
      
 
      }
-
+     .modal-body .col{
+      display: flex;
+      justify-content: center;
+     }
      .produk .card{
        background-color: #ffffff39;
        border:3px solid rgba(252, 252, 252, 0.578);
